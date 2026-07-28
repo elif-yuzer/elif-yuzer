@@ -27,7 +27,7 @@ That's on purpose. Most of my repos look like works-in-progress because they *ar
 - 🚧 Most repos are active experiments, not finished showcases — progress over polish
 - 🔁 Treat mistakes as the fastest way to learn, not something to hide or avoid
 - 🌐 Versatile by choice — broad and adaptable beats narrow and "done"
-- 🧩 Example: recently dug into **monorepo architecture** (Turborepo / pnpm workspaces) just to understand the trade-offs firsthand
+- 🧩 Example: recently dug into **monorepo architecture** (npm workspaces) just to understand the trade-offs firsthand
 
 </td>
 <td width="35%" valign="top" align="center">
