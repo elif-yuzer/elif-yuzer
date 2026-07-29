@@ -27,7 +27,7 @@ That's on purpose. Most of my repos look like works-in-progress because they *ar
 - 🚧 Most repos are active experiments, not finished showcases — progress over polish
 - 🔁 Treat mistakes as the fastest way to learn, not something to hide or avoid
 - 🌐 Versatile by choice — broad and adaptable beats narrow and "done"
-- 🧩 Example: recently dug into **monorepo architecture** (npm workspaces) just to understand the trade-offs firsthand
+- 🧩 Example: recently dug into **monorepo architecture** (Turborepo / pnpm workspaces) just to understand the trade-offs firsthand
 
 </td>
 <td width="35%" valign="top" align="center">
@@ -141,6 +141,20 @@ That's on purpose. Most of my repos look like works-in-progress because they *ar
 <td>
 <a href="https://movie-app-react-eosin-theta.vercel.app">✨ Live Demo</a><br/>
 <a href="https://github.com/elif-yuzer/movie-app-react">💻 Repo</a>
+</td>
+</tr>
+<tr>
+<td><img src="https://github.com/elif-yuzer/todo-app/blob/main/src/assets/images/todoapp.gif?raw=true" width="140" alt="Todo App demo"/></td>
+<td>
+<strong>✅ Todo App</strong><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</td>
+<td>React + Vite todo app with add/complete/delete, filters (All · Active · Completed), optional due dates, light/dark theme, and localStorage persistence.</td>
+<td>
+<a href="https://todo-app-eight-beta-12.vercel.app/">✨ Live Demo</a><br/>
+<a href="https://github.com/elif-yuzer/todo-app">💻 Repo</a>
 </td>
 </tr>
 <tr>
